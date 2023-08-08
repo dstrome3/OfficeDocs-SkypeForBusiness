@@ -5,7 +5,7 @@ A repository to hold the help reference content for Microsoft Teams and Skype fo
 Anyone who is interested can contribute to the topics.
 When you contribute your work will go directly into the content set after being merged. It will then show up on learn.microsoft.com and you will be listed as a contributor at: https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness/graphs/contributors
 
-
+test
 # Quick Start
 
 ## Contribute using the GitHub website
